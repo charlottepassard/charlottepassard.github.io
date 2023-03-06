@@ -1,0 +1,37 @@
+p {
+	padding-left: 15px;
+	font-family: Copperplate Gothic Light;
+	font-size: 18px;
+	text-align: justify;
+color: black;
+}
+ul {
+	padding-left: 15px;
+	font-family: Copperplate Gothic Light;
+	font-size: 14px;
+	text-align: justify;
+color: gray;
+}
+
+
+H2 {
+	padding-left: 15px;
+	font-family: Copperplate Gothic Light;
+	font-size: 18px;
+	text-align:;
+color: darkred;
+}
+H1{padding-left: 60px;
+	font-family: Copperplate Gothic Light;
+	font-size: 50px;
+	text-align: justify;
+color: black;
+    
+}
+strong{padding-left: 15px;
+	font-family: Copperplate Gothic Light;
+	font-size: 18px;
+	text-align:;
+color: darkred;
+    
+}
